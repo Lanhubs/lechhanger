@@ -3,7 +3,7 @@ import 'package:lexchanger/Components/IntroFade.dart';
 import 'package:lexchanger/ui/Login_Screen.dart';
 
 class IntroScreen extends StatefulWidget {
-  const IntroScreen({Key? key}) : super(key: key);
+  const IntroScreen({super.key});
 
   @override
   State<IntroScreen> createState() => _IntroScreenState();
