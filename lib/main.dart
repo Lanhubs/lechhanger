@@ -23,6 +23,7 @@ class MyApp extends StatelessWidget {
           canvasColor: Colors.white,
           fontFamily: 'ClashGrotesk'),
           home: const SplashScreen(),
+
     );
   }
 }
